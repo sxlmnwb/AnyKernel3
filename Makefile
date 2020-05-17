@@ -1,8 +1,8 @@
-NAME ?= Cartel
+NAME ?= JFLA AOSP
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := 10.0-onclite
+CODE := onclite
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 
