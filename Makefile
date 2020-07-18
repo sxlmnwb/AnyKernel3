@@ -1,4 +1,4 @@
-NAME ?= JFLA AOSP
+NAME ?= JFLA-AOSP
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
