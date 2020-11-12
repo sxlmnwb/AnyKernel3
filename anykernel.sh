@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=JFLA Kernel by Kaguyaasama @ Telegram
+kernel.string=Ōtsutsuki Kernel by Kaguyaasama @ Telegram
 do.devicecheck=1
 do.modules=1
 do.cleanup=1
