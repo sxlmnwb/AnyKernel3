@@ -1,4 +1,4 @@
-NAME ?= Ōtsutsuki-AOSP
+NAME ?= JFLA-Karamel-AOSP
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
