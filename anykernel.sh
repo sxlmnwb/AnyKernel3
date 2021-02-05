@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=JandaX Kernel by Kaguyaasama @ Telegram
+kernel.string=NgockopTempiX Kernel by sxlmnwb @ Telegram
 do.devicecheck=1
 do.modules=1
 do.cleanup=1
