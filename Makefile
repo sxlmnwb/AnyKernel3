@@ -1,4 +1,4 @@
-NAME ?= NgockopTempiX-AOSP
+NAME ?= ShirakamiFubuki-AOSP
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
