@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=ShirakamiFubuki Kernel by sxlmnwb @ Telegram
+kernel.string=sxlzpt//LLVM Kernel by sxlmnwb @ Telegram
 do.devicecheck=1
 do.modules=1
 do.cleanup=1
