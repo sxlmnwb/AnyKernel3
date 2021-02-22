@@ -1,4 +1,4 @@
-NAME ?= sxlzptLLVM-AOSP
+NAME ?= sxlzptZEUS-AOSP
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
