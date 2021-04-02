@@ -4,13 +4,13 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=sxlzptLLVM Kernel by sxlmnwb @ Telegram
+kernel.string=xBoreUp kernel by sxlmnwb @ telegram
 do.devicecheck=1
 do.modules=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=onc
-device.name2=onclite
+device.name1=onclite
+device.name2=onc
 device.name3=
 device.name4=
 device.name5=
@@ -44,4 +44,3 @@ dump_boot;
 
 write_boot;
 ## end install
-

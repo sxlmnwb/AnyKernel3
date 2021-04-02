@@ -1,4 +1,4 @@
-NAME ?= sxlzptLLVM-AOSP
+NAME ?= xBoreUp-AOSP
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
@@ -25,5 +25,3 @@ clean:
 	@rm -vf modules/system/lib/modules/*.ko
 	@rm -vf modules/system/lib/modules/pronto/*.ko
 	@echo "Done."
-
-
