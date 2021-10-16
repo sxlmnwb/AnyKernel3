@@ -51,6 +51,15 @@ write_boot;
 #is_slot_device=1;
 #ramdisk_compression=auto;
 
+write_boot;
+## end boot install
+
+
+# shell variables
+#block=vendor_boot;
+#is_slot_device=1;
+#ramdisk_compression=auto;
+
 # reset for vendor_boot patching
 #reset_ak;
 
