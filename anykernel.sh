@@ -9,14 +9,8 @@ do.devicecheck=1
 do.modules=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=onclite
-device.name2=onc
-device.name3=
-device.name4=
-device.name5=
-supported.versions=
-supported.patchlevels=
-supported.vendorpatchlevels=
+device.name1=coral
+device.name2=flame
 '; } # end properties
 
 
