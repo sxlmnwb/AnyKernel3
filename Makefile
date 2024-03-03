@@ -2,7 +2,7 @@ NAME ?= xBoreUp-AOSP
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := onclite
+CODE := coral
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 

@@ -7,6 +7,7 @@ properties() { '
 kernel.string=xBoreUp kernel by sxlmnwb @ telegram
 do.devicecheck=1
 do.modules=1
+do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=coral
@@ -103,15 +104,6 @@ write_boot; # use flash_boot to skip ramdisk repack, e.g. for devices with init_
 #ramdisk_compression=auto;
 #patch_vbmeta_flag=auto;
 
-write_boot;
-## end boot install
-
-
-# shell variables
-#block=vendor_boot;
-#is_slot_device=1;
-#ramdisk_compression=auto;
-
 # reset for vendor_boot patching
 #reset_ak;
 
@@ -120,4 +112,3 @@ write_boot;
 
 #write_boot; # use flash_boot to skip ramdisk repack, e.g. for dtb on devices with hdr v4 but no vendor_kernel_boot
 ## end vendor_boot install
-
